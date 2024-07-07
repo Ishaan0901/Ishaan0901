@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ishaan0901 {Ishaan}
-- 👀 I’m interested in learning codinng
+- 👀 I’m interested in learning coding
 - 🌱 I’m currently learning js.
 - 📫 How to reach me {Insta-> ishaan_09_01} 
 
